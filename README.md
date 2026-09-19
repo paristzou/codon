@@ -4,7 +4,7 @@
 - 英 文 姓 名：Wen-Shyong Tzou
 - 研 究 專 長：蛋白質結構電腦模擬、生物資訊
 - 個人實驗室：Lab video
-實驗室影片：[[Covid19棘壯蛋白列排比](https://drive.google.com/file/d/17V6sSoMe0z-SxcjBW-KswbUiNn-uB6jc/view?usp=sharing)] 影片1   影片2  影片3
+實驗室影片：[Covid19棘壯蛋白列排比](https://drive.google.com/file/d/17V6sSoMe0z-SxcjBW-KswbUiNn-uB6jc/view?usp=sharing) 影片1   影片2  影片3
 電 子 信 箱：paristzou@gmail.com
 研究室位置：綜合二館302-A研究室
 研究室電話：2462-2192 ext. 5522
