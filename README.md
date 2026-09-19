@@ -9,7 +9,8 @@
 研究室位置：綜合二館302-A研究室
 研究室電話：2462-2192 ext. 5522
  
- ![typhoon5 (1).tif](https://github.com/user-attachments/files/32407033/typhoon5.1.tif)
+<img width="399" height="433" alt="typhoon4" src="https://github.com/user-attachments/assets/2aa6a6f5-e342-4f86-ba21-71b5ed33e204" />
+
 
  
 主要授課課程：<br>
